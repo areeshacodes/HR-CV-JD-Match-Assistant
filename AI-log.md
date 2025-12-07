@@ -1,10 +1,10 @@
 ## For UI/UX Interface and design
 suggest me some ai tools for ui interfaces and web app designs
-# AI TOOL FOR DESIGN
+## AI TOOL FOR DESIGN
 Stitch by Google (formerly Galileo AI)
-# AI TOOL FOR TEXT GENERATION
+## AI TOOL FOR TEXT GENERATION
 Chat Gpt
-# FOR CODE,API AND BULDING FUNCTIONALITY 
+## FOR CODE,API AND BULDING FUNCTIONALITY 
 Google Ai Studio
 
 ## PROMPT For generating Problem Statements Requirements
@@ -34,3 +34,29 @@ Simple high-level design / data-flow description. make me
 
 ## PROMPT FOR UI SKETCH VISION 
 UI-Sketch-and-Vision (file or .md) – UI sketch/wireframe for a future, more complete product, plus a short explanation of main UI ideas. UI Sketch & Vision o A simple UI sketch or wireframe (image or markdown-based ASCII/PlantUML) showing how the “final product” UI might look if this system were fully developed beyond the MVP. o 1–2 paragraphs explaining key UI decisions (for example, how information is organized, how the user flow supports the pain point). do it
+
+## PROMPT FOR MAKING ROADMAP
+🔹 1-Year Roadmap (Growth Phase)
+AI & Feature Expansion
+Advanced semantic analysis for context-aware matching (project relevance, domain match).
+Multi-CV comparison for recruiters processing batches.
+Auto-highlight missing skills directly inside the uploaded CV preview.
+Integration with popular job portals (LinkedIn, Indeed) for quick JD import.
+Collaboration & Workflow
+Team dashboard for recruiters to evaluate candidates together.
+Commenting system to leave notes on candidate profiles.
+Improved analytics: trending skills, candidate ranking, match-quality heatmaps.
+🔹 2-Year Roadmap (Mature Product / Full Ecosystem)
+Automation & Intelligence
+Full recommendation engine:
+Suggests skill improvements to candidates.
+Suggests job postings that match a candidate’s CV.
+Auto-generated CV enhancement suggestions powered by generative AI.
+Multi-language support for global adoption.
+Ecosystem Integrations
+ATS (Applicant Tracking System) integration for seamless recruiter workflow.
+API access for enterprise clients.
+Automated weekly reports for hiring teams.
+User Experience
+Completely customizable UI themes.
+Mobile app version with quick-scan CV/JD analysis. make it easy words simple clear
