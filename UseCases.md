@@ -23,6 +23,8 @@ System highlights missing skills and areas to improve.
 Candidate see result and improves.
 Outcome: Candidates apply more confidently and with better-prepared CVs.
 
+<img width="881" height="483" alt="Image" src="https://github.com/user-attachments/assets/850f4516-90a5-4386-affb-7fc816f4d985" />
+
 # USE CASE 3: Hiring Manager Wants Justification for Shortlisting
 Primary User: Hiring Manager
 Goal: See reasoning behind why a candidate was shortlisted or rejected.
@@ -36,3 +38,5 @@ Critical missing skills
 Experience relevance
 Final hiring decisions are supported with clear evidence.
 Outcome: Evidence of good decision-making.
+
+<img width="913" height="558" alt="Image" src="https://github.com/user-attachments/assets/56f7db9c-2e61-4884-b3f9-c33d1f8d4303" />
