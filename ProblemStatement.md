@@ -19,7 +19,6 @@ They use the system to:
 Upload CV and JD.
 Instantly see a match score
 Read reasons for match or mismatch
-Make quick shortlisting decisions.
 
 # Job Applicants / Candidates
 They use the system to:
@@ -44,5 +43,6 @@ Skills, Experience, Qualifications
 ❌ No CV editing or rewriting
 ❌ No automated interview scheduling
 ❌ No multi-language NLP (English only for now)
+❌ no share and shortlist button working right now
 
 
