@@ -11,6 +11,8 @@ System highlights matching skills and missing skills.
 Recruiter uses the result to decide whether to shortlist or reject.
 Outcome: Fast and consistent initial screening.
 
+<img width="954" height="644" alt="Image" src="https://github.com/user-attachments/assets/5be068d5-add2-4ebb-be84-d243cda3681b" />
+
 # USE CASE 2: Candidate Wants to Check Their Fit Before Applying
 Primary User: Job Applicant
 Goal: Understand how suitable they are for a role.
