@@ -32,3 +32,5 @@ At least 3 detailed use cases.
 o
 Simple high-level design / data-flow description. make me
 
+## PROMPT FOR UI SKETCH VISION 
+UI-Sketch-and-Vision (file or .md) – UI sketch/wireframe for a future, more complete product, plus a short explanation of main UI ideas. UI Sketch & Vision o A simple UI sketch or wireframe (image or markdown-based ASCII/PlantUML) showing how the “final product” UI might look if this system were fully developed beyond the MVP. o 1–2 paragraphs explaining key UI decisions (for example, how information is organized, how the user flow supports the pain point). do it
