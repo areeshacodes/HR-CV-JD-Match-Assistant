@@ -4,6 +4,8 @@ suggest me some ai tools for ui interfaces and web app designs
 Stitch by Google (formerly Galileo AI)
 # AI TOOL FOR TEXT GENERATION
 Chat Gpt
+# FOR CODE,API AND BULDING FUNCTIONALITY 
+Google Ai Studio
 
 ## PROMPT For generating Problem Statements Requirements
 You must include the following in their Git repository for the chosen option:
