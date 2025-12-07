@@ -41,3 +41,14 @@ o
 A short “release roadmap” (for example, 3-month, 1-year, 2-year view) describing how the product could evolve over time.
 o
 At each stage, a few bullet points of planned improvements (for example, better algorithms, more data sources, richer UI, integrations, analytics), to emphasize product longevity and lifecycle thinking. add one extra feature in this roadmap that share button and shortlist button will be functional  later and remaining thing you do
+
+## Reflection: Help vs Risks
+### **Help**
+- Speed up ideation and design creation.
+- Faster prototyping of UI and working features.
+- Clearer requirements and code structure suggestions.
+
+### **Risks**
+- Over-reliance may reduce original creativity.
+- AI-generated code may contain security or performance issues.
+- Privacy concerns when pasting sensitive project data into prompts.
